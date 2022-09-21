@@ -23,9 +23,6 @@ Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
 
 1. Git Clone
 
-```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
-```
 
 2. Backend setting
 
